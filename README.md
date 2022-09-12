@@ -4,8 +4,10 @@ Sample React project for testing a11y
 
 A11y-related dependencies:
 
-- @axe-core/react
-- @storybook/addon-a11y
+- [axe-core](https://github.com/dequelabs/axe-core)
+- [cypress-axe](https://github.com/component-driven/cypress-axe)
+- [@axe-core/react](https://github.com/dequelabs/axe-core-npm/blob/develop/packages/react/README.md)
+- [@storybook/addon-a11y](https://storybook.js.org/addons/@storybook/addon-a11y)
 
 Some of the storybook stories are taken from this repo: https://github.com/bolonio/a11y-storybook
 
